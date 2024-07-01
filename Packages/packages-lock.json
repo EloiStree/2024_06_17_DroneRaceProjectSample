@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "be.davidfoot.droneracerdavid": {
+      "version": "https://github.com/DavidFoot/DroneRace_Foot_David.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ac7bbacccb26747481f6213cbade05552bb123e9"
+    },
     "be.eloistree.droneracesample": {
       "version": "https://github.com/EloiStree/2024_06_31_DroneRaceStepSample.git",
       "depth": 0,
@@ -14,12 +21,149 @@
       "dependencies": {},
       "hash": "94dde8046836dec30ddc2dadbfb83ad04acb8b50"
     },
+    "be.eloistree.eloidronesample": {
+      "version": "https://github.com/EloiStree/2024_07_01_DroneEloiSampleMons.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "777fe4f1d0eaaf4675511845eb2c6068936be1f1"
+    },
+    "be.eloistree.etoolboxbasicfont": {
+      "version": "https://github.com/EloiStree/2024_03_11_eToolbox_BasicFont.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "833398a559868d2bc1ab0a96bead155542b82b41"
+    },
+    "be.eloistree.etoolboxcolordrop": {
+      "version": "https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "316098139c3ac6670b7192e3a7d4823bf4f2f1eb"
+    },
+    "be.eloistree.generaltoolbox": {
+      "version": "https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "374d6c1f69432411361482f0ab5273ed20d53788"
+    },
+    "be.eloistree.jimmyscreamfps": {
+      "version": "https://github.com/EloiStree/2020_05_28_JimmyScreamFPS.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0d582835f6307d46c8ca1d07603a0a5889aadc56"
+    },
+    "be.eloistree.license": {
+      "version": "https://github.com/EloiStree/GeneralLicense.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "47d94896f2c8a34ccbe67e816cb273f3ddfdeab6"
+    },
+    "be.eloistree.quickgitutility": {
+      "version": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "be.eloistree.license": "0.0.1"
+      },
+      "hash": "79a80331769f955b0a478baccde2f3d50f349322"
+    },
     "be.eloistree.rootsofknowledgedronecar": {
       "version": "https://github.com/EloiStree/2023_02_19_RootsOfKnowedgeDrone.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
       "hash": "c17c4f72750167a53b82a42d76ee33a95f19784c"
+    },
+    "be.eloistree.unitypackagefacilitator": {
+      "version": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "be.eloistree.license": "0.0.1"
+      },
+      "hash": "acc9b240aa04120935d900bdf4f3407d57a94b71"
+    },
+    "be.eloistree.watchexecutetime": {
+      "version": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3f646cafa4fa16774bffe1ed0614d9bb7b97ba08"
+    },
+    "be.eloistree.zhulistaticsingleton": {
+      "version": "https://github.com/EloiStree/2022_11_22_ZhuLiStaticSingleton.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "89564667f5e0a9611cc438548de002611a652460"
+    },
+    "be.mathysboutry.dronegame": {
+      "version": "https://github.com/OelectronO/DroneRacingMathys.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2e5cf41f1702a48f19b4c09a9d53c4b1cc8a32b1"
+    },
+    "be.maxp.droneexo": {
+      "version": "https://github.com/Raftak14/DroneRaceMaxP.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "47bf54198c5faf147dd21e946c41c5d2d01b97d1"
+    },
+    "be.paulinegossart.droneracesample": {
+      "version": "https://github.com/PaulineRose07/DroneRace_Gossart_Pauline.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a29306a75cf9a8e73cdc6e2a4f68461c5df68a79"
+    },
+    "be.romualdreynaud.packagedroneracingtest": {
+      "version": "https://github.com/SpardTechs/MonLevelDeDrone.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "945aa862262e25fab2a2a298fb76dff3881a2303"
+    },
+    "be.stefansimon.dronerace": {
+      "version": "https://github.com/Girostef/DroneRace_Stef.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ead757a54f93db477e3060739246e83f5b34dbc7"
+    },
+    "be.terenceviseur.terencesample": {
+      "version": "https://github.com/TerenceViseur/DroneRace_Terence.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "34b2c8ab1be0b6d09c0261331f5dc84c2c05a4e7"
+    },
+    "be.tombandiera.tomsdronerace": {
+      "version": "https://github.com/tom-bandiera/TomsDroneRacePackage.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0df13992855899f3cf04d40dd0a746852bacc506"
+    },
+    "be.valentinsaintjean.drone": {
+      "version": "https://github.com/Couakadin/drone-valentin-stj.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a4bb4f28a64f7fccdd3ba9db7556bbd43b9f21ee"
+    },
+    "com.endel.nativewebsocket": {
+      "version": "https://github.com/endel/NativeWebSocket.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c5101c07762251edc82caad9e8a39d51b1229c31"
     },
     "com.unity.burst": {
       "version": "1.8.15",
