@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "ac7bbacccb26747481f6213cbade05552bb123e9"
+      "hash": "bdc2d4a84afaaec91287a573b65293bbb0b2f321"
     },
     "be.eloistree.droneracesample": {
       "version": "https://github.com/EloiStree/2024_06_31_DroneRaceStepSample.git",
@@ -77,7 +77,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "c17c4f72750167a53b82a42d76ee33a95f19784c"
+      "hash": "41bc6a8279cec6e5ec37677a5148db008b14745b"
     },
     "be.eloistree.unitypackagefacilitator": {
       "version": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
@@ -107,56 +107,56 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "2e5cf41f1702a48f19b4c09a9d53c4b1cc8a32b1"
+      "hash": "cb5ec8c79a1ab9bbbfe0e438c357b66148d4c283"
     },
     "be.maxp.droneexo": {
       "version": "https://github.com/Raftak14/DroneRaceMaxP.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "47bf54198c5faf147dd21e946c41c5d2d01b97d1"
+      "hash": "3578afd07676e8922ff62ddbe406da9d4f307a76"
     },
     "be.paulinegossart.droneracesample": {
       "version": "https://github.com/PaulineRose07/DroneRace_Gossart_Pauline.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "a29306a75cf9a8e73cdc6e2a4f68461c5df68a79"
+      "hash": "bbff3c5a51cc4f18ebda17d7bfdcdab3524e17f2"
     },
     "be.romualdreynaud.packagedroneracingtest": {
       "version": "https://github.com/SpardTechs/MonLevelDeDrone.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "945aa862262e25fab2a2a298fb76dff3881a2303"
+      "hash": "84136bd3d6a6790edee326dfa6bf2a06105d505d"
     },
     "be.stefansimon.dronerace": {
       "version": "https://github.com/Girostef/DroneRace_Stef.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "ead757a54f93db477e3060739246e83f5b34dbc7"
+      "hash": "338462c4fc0e357215d92283a2df03bad544db91"
     },
     "be.terenceviseur.terencesample": {
       "version": "https://github.com/TerenceViseur/DroneRace_Terence.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "34b2c8ab1be0b6d09c0261331f5dc84c2c05a4e7"
+      "hash": "3f793324847163ec18b370502d8cac703ff8ed46"
     },
     "be.tombandiera.tomsdronerace": {
       "version": "https://github.com/tom-bandiera/TomsDroneRacePackage.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "0df13992855899f3cf04d40dd0a746852bacc506"
+      "hash": "3dc50ecf8fa5f8b6e9359ca42f373c9756e0a7d4"
     },
     "be.valentinsaintjean.drone": {
       "version": "https://github.com/Couakadin/drone-valentin-stj.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "a4bb4f28a64f7fccdd3ba9db7556bbd43b9f21ee"
+      "hash": "26b425f9360a4ae6816cc29d7e3e74a49f026bbb"
     },
     "com.endel.nativewebsocket": {
       "version": "https://github.com/endel/NativeWebSocket.git#upm",
